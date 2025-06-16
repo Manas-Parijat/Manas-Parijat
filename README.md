@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+
 ![👋 Hi, my name is Manas Parijat](https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/What-Is-Pair-Programming--1.png)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Manas-Parijat&label=Profile%20views&color=0e75b6&style=flat)
